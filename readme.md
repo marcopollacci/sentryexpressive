@@ -11,7 +11,7 @@ composer require marcopollacci/sentryexpressive
 
 ## Usage
 
-1) Set at your config sentry token (if null given, no exception where send to sentry). Es:
+1) Set at your config file with sentry token and dsn (if no config given, no exception send to sentry). Es:
 ```php
 return [
     'sentry' => [

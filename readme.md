@@ -1,4 +1,4 @@
-[![Maintainability](https://api.codeclimate.com/v1/badges/3a27910bfff075b01494/maintainability)](https://codeclimate.com/github/marcopollacci/sentryexpressive/maintainability)
+[![Build Status](https://travis-ci.org/marcopollacci/sentryexpressive.svg?branch=master)](https://travis-ci.org/marcopollacci/sentryexpressive) [![Maintainability](https://api.codeclimate.com/v1/badges/3a27910bfff075b01494/maintainability)](https://codeclimate.com/github/marcopollacci/sentryexpressive/maintainability)
 
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/marcopollacci/sentryexpressive.svg)](http://isitmaintained.com/project/marcopollacci/sentryexpressive "Average time to resolve an issue") [![Percentage of issues still open](http://isitmaintained.com/badge/open/marcopollacci/sentryexpressive.svg)](http://isitmaintained.com/project/marcopollacci/sentryexpressive "Percentage of issues still open")
 

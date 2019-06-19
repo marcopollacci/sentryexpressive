@@ -1,0 +1,35 @@
+{
+    "name": "marcopollacci/sentryexpressive",
+    "type": "library",
+    "description": "Utility to connect Zend Expressive Framework to Sentry",
+    "keywords": ["ze", "zend", "zend-expressive", "sentry", "php", "marcopollacci"],
+    "homepage": "https://www.marcopollacci.it",
+    "license": "MIT",
+    "authors": [
+        {"name": "Marco Pollacci", "email": "marco@pollacci.net"}
+    ],
+    "require": {
+        "php": "^7.1",
+        "sentry/sdk": "^2.0"
+    },
+    "require-dev": {
+    },
+    "suggest": {
+    },
+    "autoload": {
+        "psr-4": { "MarcoPollacci\\SentryExpressive\\": "src/" }
+    },
+    "autoload-dev": {
+    },
+    "extra": {
+        "zf": {
+            "component": "MarcoPollacci\\SentryExpressive",
+            "config-provider": "MarcoPollacci\\SentryExpressive\\ConfigProvider"
+        }
+    },
+     "repositories": [
+     ],
+     "archive": {
+        "exclude": ["!.git", "!/.git"]
+    }
+}

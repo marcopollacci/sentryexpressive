@@ -1,3 +1,7 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/3a27910bfff075b01494/maintainability)](https://codeclimate.com/github/marcopollacci/sentryexpressive/maintainability)
+
+[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/marcopollacci/sentryexpressive.svg)](http://isitmaintained.com/project/marcopollacci/sentryexpressive "Average time to resolve an issue") [![Percentage of issues still open](http://isitmaintained.com/badge/open/marcopollacci/sentryexpressive.svg)](http://isitmaintained.com/project/marcopollacci/sentryexpressive "Percentage of issues still open")
+
 # Sentry Delegator for Zend Expressive Framework
 
 ## Install by Composer
